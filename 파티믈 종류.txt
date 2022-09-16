@@ -1,3 +1,6 @@
 Additive : 발광하는 이펙트
 Blended : 연기, 형태가 살아있는 이펙트
 실무에서 사용할 때 Blended 로 모양을 주고 그 위로 Additive 로 예쁘게 덧씌워서 사용함
+
+
+Legacy 예전에 사용되던 파티클 타입 : TintColor 변경이 material 선에서 가능함
