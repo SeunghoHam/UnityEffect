@@ -1,0 +1,12 @@
+Flipbook 타입 tga 이미지를 유니티에 임포트 하고
+
+Alpha 채널이 있는 tga라면
+[Alpha Source = Input Texture Alpha] 인 상태로  Alpha Is Transparency 를 체크해주고,
+
+Alpha 채널이 없는 tga라면
+[AlphaSource 를 From Gray Scale로 변경 한 뒤, 적용하면 색 구분에 따라 Alpha 채널을 생성해준다.
+
+
+
+파티클 외곽의 선 끄는법
+Gizmos 에서 Selection Outline 체크 해제
